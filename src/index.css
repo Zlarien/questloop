@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Courier New', monospace;
+  background: linear-gradient(135deg, #05050c 0%, #0f0f1e 100%);
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+.pixel-font {
+  font-family: 'Press Start 2P', cursive;
+}
+
+.glow {
+  text-shadow: 0 0 10px #d4af37, 0 0 20px #9d4edd;
+}
