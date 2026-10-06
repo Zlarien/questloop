@@ -1,5 +1,7 @@
 # QuestLoop (Focus Quest)
 
+<p align="center"><img src="docs/demo.gif" width="90%"/></p>
+
 Le projet de mon petit cousin de 12 ans, construit avec Claude Code pendant une séance où je lui ai appris le vibe coding.
 
 Il pensait que l'IA était réservée aux gens calés. Sa première idée était une startup générique. Je lui ai demandé pourquoi ce sujet, il n'a pas su répondre. Deux minutes plus tard il m'a parlé d'émulateurs, on est partis de là, et il est reparti avec ce jeu qui marche et qu'il sait expliquer. Il n'en revenait pas que ce soit si simple : il faut juste les bons outils et la bonne méthode.
